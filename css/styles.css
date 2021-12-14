@@ -1,3 +1,8 @@
+body {
+  background-color: rgb(55, 46, 59);
+  color:black;
+}
+
 h1 {
   font-face: "https://github.com/engineeringVolosati/BlackCube/blob/407f7c28ccbdf84800fb38be9f48f8509f7faab8/fonts/GerthDemoBold.ttf";
   color: rgb(0, 0, 0);
